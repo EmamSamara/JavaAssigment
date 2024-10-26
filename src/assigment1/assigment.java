@@ -43,9 +43,9 @@ public class assigment {
     	  double b= Math.cos(x);
     	  double d= Math.tan(x);
     	   
-    	   System.out.println("sin ("+x+") is : "+a);
-    	   System.out.println("cos ("+x+") is : "+b);
-    	   System.out.println("tan ("+x+") is : "+d);
+    	   System.out.println("sin ("+n+") is : "+a);
+    	   System.out.println("cos ("+n+") is : "+b);
+    	   System.out.println("tan ("+n+") is : "+d);
     	   
        }
        
